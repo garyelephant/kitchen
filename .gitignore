@@ -1,0 +1,9 @@
+# Editor generate files
+
+
+# Dev dependencies and cache files
+node_modules
+npm-debug.log
+
+# Folder view configuration files
+
